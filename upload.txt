@@ -1,0 +1,1 @@
+curl -v -X POST -u '$gridtestgo':'6Rqe9SaWN2dQto86Lf3ooHgtjpQSuuuKmtxtwmip7d02Sv3GdcsxxTZ8lll3' --data-binary "@helloworld.zip" https://gridtestgo.scm.azurewebsites.net/api/zipdeploy
